@@ -17,14 +17,14 @@ export default function RootLayout({ children }) {
           <img
             src="/logo-left.png"
             alt="Left Logo"
-            style={{ height: 45 }}
+            style={{ height: 65 }}
           />
 
           {/* RIGHT LOGO */}
           <img
             src="/logo-right.png"
             alt="Right Logo"
-            style={{ height: 45 }}
+            style={{ height: 65 }}
           />
         </header>
 
